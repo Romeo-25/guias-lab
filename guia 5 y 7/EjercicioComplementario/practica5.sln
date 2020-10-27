@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "practica5", "practica5\practica5.dwproj", "{01F8617A-4A78-4CFB-9D94-C55C9435DEE0}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "MatrizGuia7", "MatrizGuia7\MatrizGuia7.rptproj", "{302E9D04-7926-4A5A-B4D2-A37372BB6EEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Development|Default = Development|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F8617A-4A78-4CFB-9D94-C55C9435DEE0}.Debug|Default.ActiveCfg = Development
+		{01F8617A-4A78-4CFB-9D94-C55C9435DEE0}.Debug|Default.Build.0 = Development
+		{01F8617A-4A78-4CFB-9D94-C55C9435DEE0}.Debug|Default.Deploy.0 = Development
+		{01F8617A-4A78-4CFB-9D94-C55C9435DEE0}.DebugLocal|Default.ActiveCfg = Development
+		{01F8617A-4A78-4CFB-9D94-C55C9435DEE0}.DebugLocal|Default.Build.0 = Development
+		{01F8617A-4A78-4CFB-9D94-C55C9435DEE0}.DebugLocal|Default.Deploy.0 = Development
+		{01F8617A-4A78-4CFB-9D94-C55C9435DEE0}.Development|Default.ActiveCfg = Development
+		{01F8617A-4A78-4CFB-9D94-C55C9435DEE0}.Development|Default.Build.0 = Development
+		{01F8617A-4A78-4CFB-9D94-C55C9435DEE0}.Development|Default.Deploy.0 = Development
+		{01F8617A-4A78-4CFB-9D94-C55C9435DEE0}.Release|Default.ActiveCfg = Development
+		{01F8617A-4A78-4CFB-9D94-C55C9435DEE0}.Release|Default.Build.0 = Development
+		{01F8617A-4A78-4CFB-9D94-C55C9435DEE0}.Release|Default.Deploy.0 = Development
+		{302E9D04-7926-4A5A-B4D2-A37372BB6EEA}.Debug|Default.ActiveCfg = Debug
+		{302E9D04-7926-4A5A-B4D2-A37372BB6EEA}.Debug|Default.Build.0 = Debug
+		{302E9D04-7926-4A5A-B4D2-A37372BB6EEA}.Debug|Default.Deploy.0 = Debug
+		{302E9D04-7926-4A5A-B4D2-A37372BB6EEA}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{302E9D04-7926-4A5A-B4D2-A37372BB6EEA}.DebugLocal|Default.Build.0 = DebugLocal
+		{302E9D04-7926-4A5A-B4D2-A37372BB6EEA}.Development|Default.ActiveCfg = Debug
+		{302E9D04-7926-4A5A-B4D2-A37372BB6EEA}.Development|Default.Build.0 = Debug
+		{302E9D04-7926-4A5A-B4D2-A37372BB6EEA}.Development|Default.Deploy.0 = Debug
+		{302E9D04-7926-4A5A-B4D2-A37372BB6EEA}.Release|Default.ActiveCfg = Release
+		{302E9D04-7926-4A5A-B4D2-A37372BB6EEA}.Release|Default.Build.0 = Release
+		{302E9D04-7926-4A5A-B4D2-A37372BB6EEA}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8CDC68C-154A-43E8-BD98-358AC54C32E6}
+	EndGlobalSection
+EndGlobal
